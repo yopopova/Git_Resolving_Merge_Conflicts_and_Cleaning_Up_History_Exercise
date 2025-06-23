@@ -1,0 +1,2 @@
+# Git_Resolving_Merge_Conflicts_and_Cleaning_Up_History_Exercise
+Resolving merge conflicts and cleaning up history exercises.
